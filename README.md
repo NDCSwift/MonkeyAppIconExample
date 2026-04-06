@@ -1,18 +1,18 @@
 # 🐒 Monkey App Icon — Liquid Glass with Icon Composer
 
-A SwiftUI demo showing how to create a Liquid Glass app icon using Xcode's Icon Composer — from AI-generated source image to a polished, physics-aware iOS icon.
+A SwiftUI demo showing how to create a Liquid Glass app icon using Xcode's Icon Composer — from source image to a polished, physics-aware iOS icon.
 
 ---
 
 ## 🤔 What this is
 
-This project shows the end-to-end workflow for building a Liquid Glass app icon using Xcode's Icon Composer tool. An AI-generated monkey image is brought into Icon Composer, which applies Apple's Liquid Glass rendering to produce the full icon set — the `.icon` file in this repo is the result, wired into a working Xcode project so you can see it live.
+This project shows the end-to-end workflow for building a Liquid Glass app icon using Xcode's Icon Composer tool. A monkey image is brought into Icon Composer, which applies Apple's Liquid Glass rendering to produce the full icon set — the `.icon` file in this repo is the result, wired into a working Xcode project so you can see it live.
 
 ## ✅ Why you'd use it
 
 - **Icon Composer workflow** — see exactly how `.icon` files are structured and generated in Xcode
 - **Liquid Glass rendering** — Apple's new icon style with depth, translucency, and specular highlights
-- **AI-generated source image** — shows how to go from a flat AI image to a polished iOS icon
+- **ource image** — shows how to go from a flat AI image to a polished iOS icon
 - **Includes the full 1024×1024 source PNG** — use it as a reference for your own AI-generated icon
 - **Complete working Xcode project** — see the icon live on a real app target
 
